@@ -39,3 +39,9 @@ public class MethodOverloading {
         scanner.close();
     }
 }
+// Output:
+// Enter the first integer: 10
+// Enter the second integer: 9
+// Sum of 2 integers: 19
+// Enter the third integer: 11
+// Sum of 3 integers: 30
